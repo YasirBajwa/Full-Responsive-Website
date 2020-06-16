@@ -6,6 +6,5 @@
 <li>Bootstrap</li>
 <li>Flexbox</li>
 </ol>
-
-Full-Responsive-Website
-An assignment project to make the responsive website
+<p>Vist the website https://yasirbajwa.github.io/Full-Responsive-Website/ </p>
+------------------------------------------------------------------------------------------------------------------------------------------

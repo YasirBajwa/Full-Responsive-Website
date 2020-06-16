@@ -2,7 +2,7 @@
 <p>The Project is made by these:</p>
 <ol>
 <li>HTML</li>
-<li>CSS<li>
+ <li>CSS<li>
 <li>Bootstrap</li>
 <li>Flexbox</li>
 </ol>
